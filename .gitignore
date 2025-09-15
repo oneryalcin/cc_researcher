@@ -57,5 +57,5 @@ Thumbs.db
 .coverage
 htmlcov/
 
-# External refs (large downloaded files)
-.external_refs/
+# External refs - now included as reference documentation
+# Note: .external_refs/ contains valuable reference materials
