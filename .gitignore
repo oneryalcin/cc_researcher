@@ -31,8 +31,8 @@ venv.bak/
 
 # Research workspaces (generated artifacts)
 research_*/
-*_workspace/
 research_workspace/
+# Note: example_workspace/ is intentionally included as documentation
 
 # Log files
 *.log
